@@ -14,7 +14,7 @@
 
 1. Baixe somente de um endereço anunciado no **site oficial** e confira se o arquivo corresponde à release correta.
 2. Compare o SHA-256 do arquivo baixado com o SHA-256 documentado na release.
-3. Confira o nome do aplicativo e, se for um administrador técnico, o pacote \`com.inovasys.comprovapro\` e o certificado de assinatura.
+3. Confira o nome do aplicativo e, se for um administrador técnico, o pacote `com.inovasys.comprovapro` e o certificado de assinatura.
 4. Para atualizar, **não desinstale a versão anterior**. A atualização deve conservar o mesmo identificador e certificado.
 5. Mantenha o **Google Play Protect ativado**. Se houver bloqueio de instalação ou alerta de segurança, interrompa e contate o suporte.
 
