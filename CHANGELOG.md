@@ -15,7 +15,7 @@
 
 O build 14 foi utilizado em etapas anteriores de homologação. **Não existe download público dele neste repositório**.
 
-Para próximos builds, acrescentar uma entrada com: versão, \`versionCode\`, data efetiva de publicação, tag, resumo das alterações, tamanho, SHA-256, assinatura, compatibilidade e resultado dos testes. Não reescrever entradas anteriores para ocultar incidentes ou substituir arquivos sem versão.
+Para próximos builds, acrescentar uma entrada com: versão, `versionCode`, data efetiva de publicação, tag, resumo das alterações, tamanho, SHA-256, assinatura, compatibilidade e resultado dos testes. Não reescrever entradas anteriores para ocultar incidentes ou substituir arquivos sem versão.
 
 ---
 
