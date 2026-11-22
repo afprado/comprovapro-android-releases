@@ -8,7 +8,7 @@
 - **Canal de artefatos:** https://github.com/afprado/comprovapro-android-releases/releases
 - **Suporte:** suporte@inovasyssolutions.com.br
 
-**Atenção:** o canal de releases pode estar vazio enquanto uma versão é preparada. Uma página de documentação ou um arquivo com nome parecido **não comprovam** que o instalador foi publicado.
+**Versão atual:** [ComprovaPro Android 1.0.0 — build 15](https://github.com/afprado/comprovapro-android-releases/releases/tag/android-v1.0.0-build15) foi publicada em 22/11/2026. A conferência do arquivo baixado permanece necessária; documentos ou arquivos de terceiros não comprovam autenticidade.
 
 ## Conferir um APK
 
