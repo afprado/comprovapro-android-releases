@@ -1,6 +1,6 @@
 # ComprovaPro Android 1.0.0 — build 15
 
-**Status em 22/11/2026:** artefato de produção **aprovado em aparelho real**; **ainda não publicado neste repositório público**. Esta página é uma ficha de referência e modelo de nota de release, **não um link de download**.
+**Status em 22/11/2026:** artefato de produção **aprovado em aparelho real** e **publicado como asset do GitHub Releases**. O próprio GitHub informa SHA-256 correspondente ao original. **O download externo independente ainda deve ser testado antes de habilitar o botão na Cloudflare.**
 
 ## Apresentação
 
@@ -22,8 +22,8 @@ O **ComprovaPro**, da **InovaSys Solutions**, é um aplicativo Android para prof
 | SHA-256 | `d9caad800197189cdf8b286a3c43ed614bb88e10b1ebf17222bc45fa842d847b` |
 | Certificado de assinatura SHA-256 | `1579f386d67fdd8865629c8bd8f28b34a78064599c694b8fb915ef753248f709` |
 | Data da aprovação funcional | 22/11/2026 |
-| Data de publicação pública | **Pendente** |
-| Link público de download | **Pendente — nenhuma release publicada** |
+| Data de publicação pública | **22/11/2026, 15:24:42 UTC** |
+| Link público de download | [GitHub Release](https://github.com/afprado/comprovapro-android-releases/releases/tag/android-v1.0.0-build15) · [APK oficial — build 15](https://github.com/afprado/comprovapro-android-releases/releases/download/android-v1.0.0-build15/ComprovaPro-1.0.0-versionCode15-release.apk) |
 
 ### Evidências funcionais disponíveis
 
@@ -44,7 +44,7 @@ A assinatura do build 15 foi conferida como a mesma utilizada no build anterior 
 
 ## Segurança e distribuição
 
-- A publicação do APK deverá acontecer **somente como asset de GitHub Releases**, nunca como um commit de código ou um arquivo incorporado a este README.
+- O APK foi publicado **como asset de GitHub Releases**; nunca incorporar binários como commit de código ou como arquivo no README.
 - Os repositórios de desenvolvimento, o banco de dados e as chaves de assinatura **não são públicos**.
 - Nunca desativar o Google Play Protect para instalar o ComprovaPro.
 - O hash SHA-256 exibido aqui é o **valor do binário aprovado**, devendo ser **comparado novamente com o arquivo distribuído**.
@@ -67,7 +67,7 @@ A assinatura do build 15 foi conferida como a mesma utilizada no build anterior 
 >
 > **Instalação:** baixe o APK exclusivamente pelo site oficial quando a distribuição pública for anunciada. Se já utiliza o aplicativo, atualize por cima da versão atual, sem desinstalá-lo. Mantenha o Google Play Protect ativado.
 
-**Antes de usar o texto:** confirmar que a release está efetivamente publicada, que o arquivo público confere com o hash e que a URL de suporte está correta.
+**Antes de redistribuir o binário:** confirmar a URL pública, baixar o APK externamente e comparar o SHA-256 do arquivo recebido com o valor documentado. O digest do GitHub confirma o upload, mas não substitui a conferência de ponta a ponta.
 
 ---
 
