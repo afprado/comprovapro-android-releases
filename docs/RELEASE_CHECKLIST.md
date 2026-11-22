@@ -3,7 +3,7 @@
 **Projeto:** ComprovaPro · **Responsável:** InovaSys Solutions · **Revisão:** 22/11/2026  
 **Tipo de acesso:** o repositório `afprado/comprovapro-android-releases` é **público**. O código-fonte e a chave de assinatura são **privados** em outros locais.
 
-> **Estado atual (22/11/2026):** a release `android-v1.0.0-build15` está **PUBLICADA**. A API do GitHub confirma o asset e o SHA-256 do upload; **o teste de download externo sem sessão e a conferência independente do hash ainda estão pendentes**. Este runbook permanece válido para próximas versões.
+> **Estado atual (22/11/2026):** a release `android-v1.0.0-build15` está **PUBLICADA**. A API do GitHub confirma o asset e o SHA-256 do upload; **download sem sessão GitHub pelo botão da Cloudflare Pages confirmado; hash e tamanho do APK baixado conferidos no PowerShell: PASS em 22/11/2026**. Este runbook permanece válido para próximas versões.
 
 ## 1. Separação obrigatória de responsabilidades
 

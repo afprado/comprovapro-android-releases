@@ -1,6 +1,6 @@
 # ComprovaPro Android 1.0.0 — build 15
 
-**Status em 22/11/2026:** artefato de produção **aprovado em aparelho real** e **publicado como asset do GitHub Releases**. O próprio GitHub informa SHA-256 correspondente ao original. **O download externo independente ainda deve ser testado antes de habilitar o botão na Cloudflare.**
+**Status em 22/11/2026:** artefato de produção **aprovado em aparelho real** e **publicado como asset do GitHub Releases**. O próprio GitHub informa SHA-256 correspondente ao original. **Download anônimo pela página Cloudflare e verificação SHA-256 concluídos em 22/11/2026: PASS.** O site oficial `comprovapro.app.br` ainda não foi migrado; publicar o APK não equivale à liberação comercial do checkout.
 
 ## Apresentação
 

@@ -4,7 +4,7 @@
 
 Repositório **público e exclusivo para a distribuição dos instaladores Android oficiais** do ComprovaPro. Aqui ficam as informações de versão, integridade, segurança e procedimentos de publicação para profissionais de desenvolvimento e suporte.
 
-> **Estado em 22/11/2026 — RELEASE PUBLICADA:** Android **1.0.0 / build 15** aprovado em aparelho real e publicado no GitHub Releases em **22/11/2026 às 15:24:42 UTC**, tag `android-v1.0.0-build15`. A API do GitHub confirmou **93.911.115 bytes** e SHA-256 idêntico ao APK original validado. **Pendente:** teste independente do download externo, habilitação do botão na Cloudflare e lançamento comercial do checkout.
+> **Estado em 22/11/2026 — RELEASE PUBLICADA:** Android **1.0.0 / build 15** aprovado em aparelho real e publicado no GitHub Releases em **22/11/2026 às 15:24:42 UTC**, tag `android-v1.0.0-build15`. A API do GitHub confirmou **93.911.115 bytes** e SHA-256 idêntico ao APK original validado. **Validação concluída:** download em janela anônima pela Cloudflare Pages e conferência local do arquivo recebido (93.911.115 bytes, SHA-256 idêntico ao original): **PASS em 22/11/2026**. **Pendente:** migração do domínio comercial e liberação financeira do checkout.
 
 [**Consultar Releases**](https://github.com/afprado/comprovapro-android-releases/releases) · [**Site ComprovaPro**](https://comprovapro.app.br) · [**Segurança**](SECURITY.md) · [**Guia de publicação**](docs/RELEASE_CHECKLIST.md)
 
@@ -31,7 +31,7 @@ O código-fonte, o painel administrativo e as integrações de pagamento são ma
 
 | Canal | Situação em 22/11/2026 | Orientação |
 |---|---|---|
-| [GitHub Releases](https://github.com/afprado/comprovapro-android-releases/releases/tag/android-v1.0.0-build15) | **Versão 1.0.0 (build 15) publicada** | APK disponível como **asset da Release**; integridade registrada pelo GitHub; validação independente do download externo pendente |
+| [GitHub Releases](https://github.com/afprado/comprovapro-android-releases/releases/tag/android-v1.0.0-build15) | **Versão 1.0.0 (build 15) publicada** | APK disponível como **asset da Release**; integridade registrada pelo GitHub e novamente confirmada após download anônimo em 22/11/2026 — **PASS** |
 | [Site oficial](https://comprovapro.app.br) | Página comercial existente; distribuição Android em preparação | Acessar a página oficial quando o lançamento for anunciado |
 | Google Play | Publicação não confirmada nesta data | Não instalar aplicativos semelhantes presumindo serem oficiais |
 
@@ -49,7 +49,7 @@ O código-fonte, o painel administrativo e as integrações de pagamento são ma
 | Arquivo aprovado | `ComprovaPro-1.0.0-versionCode15-release.apk` |
 | Tamanho do APK | **93.911.115 bytes** (aproximadamente 94 MB) |
 | SHA-256 do APK | `d9caad800197189cdf8b286a3c43ed614bb88e10b1ebf17222bc45fa842d847b` |
-| Situação | **Publicado no GitHub Releases em 22/11/2026; teste externo independente pendente** |
+| Situação | **Publicado e validado externamente em 22/11/2026 — PASS** |
 
 **Validação realizada:** atualização do aplicativo em aparelho real, novo ícone e logotipo oficiais, login e preservação dos serviços existentes. Isso não é garantia de funcionamento em todos os modelos de Android.
 
