@@ -14,13 +14,13 @@ O **ComprovaPro**, da **InovaSys Solutions**, é um aplicativo Android para prof
 |---|---|
 | Nome | ComprovaPro |
 | Canal | Produção — Android |
-| Versão (versionName) | \`1.0.0\` |
-| Código da versão | \`15\` |
-| Pacote Android | \`com.inovasys.comprovapro\` |
-| Nome original validado | \`ComprovaPro-1.0.0-versionCode15-release.apk\` |
-| Tamanho do arquivo | \`93.911.115 bytes\` (aproximadamente 94 MB) |
-| SHA-256 | \`d9caad800197189cdf8b286a3c43ed614bb88e10b1ebf17222bc45fa842d847b\` |
-| Certificado de assinatura SHA-256 | \`1579f386d67fdd8865629c8bd8f28b34a78064599c694b8fb915ef753248f709\` |
+| Versão (versionName) | `1.0.0` |
+| Código da versão | `15` |
+| Pacote Android | `com.inovasys.comprovapro` |
+| Nome original validado | `ComprovaPro-1.0.0-versionCode15-release.apk` |
+| Tamanho do arquivo | `93.911.115 bytes` (aproximadamente 94 MB) |
+| SHA-256 | `d9caad800197189cdf8b286a3c43ed614bb88e10b1ebf17222bc45fa842d847b` |
+| Certificado de assinatura SHA-256 | `1579f386d67fdd8865629c8bd8f28b34a78064599c694b8fb915ef753248f709` |
 | Data da aprovação funcional | 22/11/2026 |
 | Data de publicação pública | **Pendente** |
 | Link público de download | **Pendente — nenhuma release publicada** |
@@ -38,7 +38,7 @@ Essas evidências **não substituem** homologação completa de outros modelos d
 
 ### Compatibilidade de atualização
 
-A assinatura do build 15 foi conferida como a mesma utilizada no build anterior aprovado. A atualização deve ocorrer sem desinstalação, respeitando o \`packageName\` e o aumento de \`versionCode\`.
+A assinatura do build 15 foi conferida como a mesma utilizada no build anterior aprovado. A atualização deve ocorrer sem desinstalação, respeitando o `packageName` e o aumento de `versionCode`.
 
 > **Não desinstale uma versão existente para atualizar.** Use um APK de procedência oficial e confira o nome do aplicativo antes de instalar. Se o Android acusar assinatura diferente, interrompa.
 
@@ -52,7 +52,7 @@ A assinatura do build 15 foi conferida como a mesma utilizada no build anterior 
 
 ## Modelo de título e notas para o GitHub Release
 
-**Título proposto:** \`ComprovaPro Android 1.0.0 (build 15)\`
+**Título proposto:** `ComprovaPro Android 1.0.0 (build 15)`
 
 **Descrição pública sugerida (usar após conferir os assets):**
 
@@ -61,9 +61,9 @@ A assinatura do build 15 foi conferida como a mesma utilizada no build anterior 
 >
 > **Destaque desta versão:** identidade visual oficial do aplicativo e do login, atualização em Android real validada preservando os registros existentes.
 >
-> **Arquivo:** \`ComprovaPro-1.0.0-versionCode15-release.apk\`  
+> **Arquivo:** `ComprovaPro-1.0.0-versionCode15-release.apk`  
 > **Tamanho:** 93.911.115 bytes  
-> **SHA-256:** \`d9caad800197189cdf8b286a3c43ed614bb88e10b1ebf17222bc45fa842d847b\`
+> **SHA-256:** `d9caad800197189cdf8b286a3c43ed614bb88e10b1ebf17222bc45fa842d847b`
 >
 > **Instalação:** baixe o APK exclusivamente pelo site oficial quando a distribuição pública for anunciada. Se já utiliza o aplicativo, atualize por cima da versão atual, sem desinstalá-lo. Mantenha o Google Play Protect ativado.
 
