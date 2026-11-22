@@ -1,0 +1,27 @@
+# Repositório público de metadados de distribuição.
+# Instalação de APK: anexar binário como asset da Release, nunca commitar.
+
+*.apk
+*.aab
+*.apks
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+*.env
+.env.*
+*.sqlite
+*.db
+*.bak
+*.backup
+*.dump
+*.log
+node_modules/
+dist/
+build/
+.vercel/
+.wrangler/
+.DS_Store
+Thumbs.db
